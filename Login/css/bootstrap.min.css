@@ -2714,14 +2714,14 @@ fieldset:disabled a.btn {
 
 .btn-success {
     color: #fff;
-    background-color: #28a745;
-    border-color: #28a745
+    background-color: #87C4FF;
+    border-color: #87C4FF
 }
 
 .btn-success:hover {
     color: #fff;
-    background-color: #218838;
-    border-color: #1e7e34
+    background-color: #39A7FF;
+    border-color: #39A7FF
 }
 
 .btn-success.focus,

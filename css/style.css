@@ -60,7 +60,7 @@ a:focus,
 
 /* line 25, ../../Arafath/CL/CL October/213. Business/HTML/scss/theme-default.scss */
 a:focus {
-  color: #fff;
+  color: #87C4FF;
   text-decoration: none;
 }
 
@@ -426,7 +426,7 @@ h3 {
 /* line 29, ../../Arafath/CL/CL October/213. Business/HTML/scss/_btn.scss */
 .boxed-btn3 {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
-  background: #28AE60;
+  background: #87C4FF;
   color: #fff;
   display: inline-block;
   padding: 14px 27px;
@@ -450,7 +450,7 @@ h3 {
 
 /* line 48, ../../Arafath/CL/CL October/213. Business/HTML/scss/_btn.scss */
 .boxed-btn3:hover {
-  background: #28AE61;
+  background: #39A7FF;
   color: #fff !important;
 }
 
@@ -968,7 +968,7 @@ h3 {
 
 /* line 108, ../../Arafath/CL/CL October/213. Business/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a {
-  background: #28AE60;
+  background: #87C4FF;
   padding: 12px 26px;
   font-size: 14px;
   font-weight: 400;
@@ -988,9 +988,9 @@ h3 {
 
 /* line 119, ../../Arafath/CL/CL October/213. Business/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a:hover {
-  background: #28AE60;
+  background: #39A7FF;
   color: #fff;
-  border: 1px solid #28AE60;
+  border: 1px solid #E0F4FF;
 }
 
 /* line 127, ../../Arafath/CL/CL October/213. Business/HTML/scss/_header.scss */
@@ -1066,7 +1066,7 @@ h3 {
 
 /* line 191, ../../Arafath/CL/CL October/213. Business/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li a:hover {
-  color: #28AE60;
+  color: #39A7FF;
 }
 
 /* line 195, ../../Arafath/CL/CL October/213. Business/HTML/scss/_header.scss */
@@ -1231,7 +1231,7 @@ h3 {
 
 /* line 312, ../../Arafath/CL/CL October/213. Business/HTML/scss/_header.scss */
 .header-area .header-top_area .short_contact_list ul li a i {
-  color: #28AE60;
+  color: #87C4FF;
   margin-right: 7px;
 }
 
@@ -1272,14 +1272,14 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/213. Business/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image:url(../img/banner/DINAS PERKIM.jpg);
+  background-image:url(../img/banner/about_bg.png);
 }
 /* line 4, ../../Arafath/CL/CL October/213. Business/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image:url(../img/banner/gambar dinas perkim.webp);
+  background-image:url(../img/banner/about_bg.png);
 }
 .slider_bg_3 {
-  background-image:url(../img/banner/IMG20200307083455.jpg);
+  background-image:url(../img/banner/about_bg.png);
 }
 
 
@@ -2864,7 +2864,7 @@ h3 {
 
 /* line 137, ../../Arafath/CL/CL October/213. Business/HTML/scss/_footer.scss */
 .footer .copy-right_text .copy_right a {
-  color: #28AE60;
+  color: #87C4FF;
 }
 
 /* line 142, ../../Arafath/CL/CL October/213. Business/HTML/scss/_footer.scss */
@@ -2905,27 +2905,27 @@ h3 {
 /* line 164, ../../Arafath/CL/CL October/213. Business/HTML/scss/_footer.scss */
 .footer .socail_links ul li a:hover {
   color: #fff !important;
-  background: #28AE60;
+  background: #39A7FF;
 }
 
 /* line 1, ../../Arafath/CL/CL October/213. Business/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
-  background-image: url(../img/banner/bradcam_1.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 4, ../../Arafath/CL/CL October/213. Business/HTML/scss/_bradcam.scss */
 .breadcam_bg_2 {
-  background-image: url(../img/banner/bradcam_2.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 7, ../../Arafath/CL/CL October/213. Business/HTML/scss/_bradcam.scss */
 .breadcam_bg_3 {
-  background-image: url(../img/banner/bradcam3.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 10, ../../Arafath/CL/CL October/213. Business/HTML/scss/_bradcam.scss */
 .breadcam_bg_4 {
-  background-image: url(../img/banner/bradcam_4.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 13, ../../Arafath/CL/CL October/213. Business/HTML/scss/_bradcam.scss */
@@ -3430,17 +3430,17 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/213. Business/HTML/scss/_service.scss */
 .service_bg_1 {
-  background-image: url(../img/about/1.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 3, ../../Arafath/CL/CL October/213. Business/HTML/scss/_service.scss */
 .service_bg_2 {
-  background-image: url(../img/about/2.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 5, ../../Arafath/CL/CL October/213. Business/HTML/scss/_service.scss */
 .service_bg_3 {
-  background-image: url(../img/about/3.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 8, ../../Arafath/CL/CL October/213. Business/HTML/scss/_service.scss */
@@ -6937,7 +6937,7 @@ h6 {
 	width:100%;
 	padding-top:15px;
 	padding-bottom:17px;
-	background-color:#28AE60;
+	background-color:#39A7FF;
 	font-size:20pt;
 	font-family:"Arial Black", Gadget, sans-serif;
 	text-align: center;
@@ -7020,7 +7020,7 @@ label{
 }
  
 .table1 tr th{
-    background:#28AE60;
+    background:#39A7FF;
     color: #fff;
     font-weight: normal;
 }

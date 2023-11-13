@@ -202,17 +202,17 @@ h3 {
 
 /* line 132, ../../Arafath/CL/CL October/213. Business/HTML/scss/theme-default.scss */
 .bg-img-1 {
-  background-image: url(../img/slider/slider-img-1.jpg);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 135, ../../Arafath/CL/CL October/213. Business/HTML/scss/theme-default.scss */
 .bg-img-2 {
-  background-image: url(../img/background-img/bg-img-2.jpg);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 138, ../../Arafath/CL/CL October/213. Business/HTML/scss/theme-default.scss */
 .cta-bg-1 {
-  background-image: url(../img/background-img/bg-img-3.jpg);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 143, ../../Arafath/CL/CL October/213. Business/HTML/scss/theme-default.scss */
@@ -883,14 +883,14 @@ h3 {
 @media (max-width: 767px) {
   /* line 54, ../../Arafath/CL/CL October/213. Business/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img img {
-    width: 70px;
+    width: 50px;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 54, ../../Arafath/CL/CL October/213. Business/HTML/scss/_header.scss */
   .header-area .main-header-area .logo-img img {
-    width: 70px;
+    width: 50px;
   }
 }
 
@@ -969,7 +969,7 @@ h3 {
 
 /* line 108, ../../Arafath/CL/CL October/213. Business/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a {
-  background: #28AE60;
+  background: #87C4FF;
   padding: 12px 26px;
   font-size: 14px;
   font-weight: 400;
@@ -1273,15 +1273,15 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/213. Business/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image:url(../img/banner/FB_IMG_1578574852361.jpg);
+  background-image:url(../img/banner/about_bg.png);
 }
 
 /* line 4, ../../Arafath/CL/CL October/213. Business/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../img/banner/banner2.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 .slider_bg_3 {
-  background-image:url(../img/banner/FB_IMG_1578574908152.jpg);
+  background-image:url(../img/banner/about_bg.png);
 }
 
 
@@ -2916,22 +2916,22 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/213. Business/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
-  background-image: url(../img/banner/bradcam_1.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 4, ../../Arafath/CL/CL October/213. Business/HTML/scss/_bradcam.scss */
 .breadcam_bg_2 {
-  background-image: url(../img/banner/bradcam_2.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 7, ../../Arafath/CL/CL October/213. Business/HTML/scss/_bradcam.scss */
 .breadcam_bg_3 {
-  background-image: url(../img/banner/bradcam3.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 10, ../../Arafath/CL/CL October/213. Business/HTML/scss/_bradcam.scss */
 .breadcam_bg_4 {
-  background-image: url(../img/banner/bradcam_4.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 13, ../../Arafath/CL/CL October/213. Business/HTML/scss/_bradcam.scss */
@@ -3436,17 +3436,17 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/213. Business/HTML/scss/_service.scss */
 .service_bg_1 {
-  background-image: url(../img/about/1.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 3, ../../Arafath/CL/CL October/213. Business/HTML/scss/_service.scss */
 .service_bg_2 {
-  background-image: url(../img/about/2.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 5, ../../Arafath/CL/CL October/213. Business/HTML/scss/_service.scss */
 .service_bg_3 {
-  background-image: url(../img/about/3.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 8, ../../Arafath/CL/CL October/213. Business/HTML/scss/_service.scss */
@@ -3773,12 +3773,12 @@ h3 {
 
 /* line 36, ../../Arafath/CL/CL October/213. Business/HTML/scss/_emergency_contact.scss */
 .emergency_bg_1 {
-  background-image: url(../img/banner/emergency-1.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /* line 39, ../../Arafath/CL/CL October/213. Business/HTML/scss/_emergency_contact.scss */
 .emergency_bg_2 {
-  background-image: url(../img/banner/emergency-2.png);
+  background-image: url(../img/banner/about_bg.png);
 }
 
 /*=================== contact banner start ====================*/
@@ -6942,7 +6942,7 @@ h6 {
 	width:100%;
 	padding-top:15px;
 	padding-bottom:16px;
-	background-color:#28AE60;
+	background-color:#87C4FF;
 	font-size:20pt;
 	font-family:"Arial Black", Gadget, sans-serif;
 	text-align: center;
@@ -6992,7 +6992,7 @@ label{
  
 .tombol_simpan{
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	background:#28AE60;
+	background:#87C4FF;
 	color: white;
 	font-size: 18pt;
 	width: 100%;

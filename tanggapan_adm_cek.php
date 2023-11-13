@@ -62,7 +62,7 @@ if(!isset ($_SESSION['nama_petugas'])){
                             <div class="col-xl-3 col-lg-2">
                                 <div class="logo">
                                     <a href="admin_petugas.php">
-                                        <img src="img/logo desa.png" alt="">
+                                        <img src="img/bot-logo-removebg.png" alt="">
                                     </a>
                                 </div>
                             </div>
@@ -170,7 +170,7 @@ if ($level == 'petugas') {
                     <div class="col-xl-12">
                         <p class="copy_right text-center">
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="#" target="_blank">DESA</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | by  <a href="https://maps.app.goo.gl/QjRnXL2dHgv6uXhDA" target="_blank">DINAS PERKIM MUBA</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
